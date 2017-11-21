@@ -65,7 +65,7 @@
 \settocdepth{subsection}
 
 %% Titlepage adjustments
-\pretitle{\vspace{0pt plus 0.1fill}\begin{center}\textsc\LARGE\sffamily\bfseries}
+\pretitle{\vspace{10pt plus 0.7fill}\begin{center}\HUGE\sffamily\bfseries}
 \posttitle{\end{center}\par}
 \preauthor{\par\begin{center}\let\and\\\Large\sffamily}
 \postauthor{\end{center}}
@@ -74,14 +74,12 @@
 
 \def\@advisors{}
 \newcommand{\advisors}[1]{\def\@advisors{#1}}
-\def\@condition{}
-\newcommand{\condition}[1]{\def\@condition{#1}}
 \def\@department{}
 \newcommand{\department}[1]{\def\@department{#1}}
 \def\@thesistype{}
 \newcommand{\thesistype}[1]{\def\@thesistype{#1}}
 
-\renewcommand{\maketitlehooka}{\noindent\UNIGElogo[2in]}
+\renewcommand{\maketitlehooka}{\noindent\UNIGElogo[3in]}
 
 \renewcommand{\maketitlehookb}{\vspace{1in}%
   \par\begin{center}\Large\sffamily\@thesistype\end{center}}
@@ -91,8 +89,7 @@
   \begin{flushright}
     \sffamily
     \@advisors\par
-    \@condition\par
-    \@department, UNIGE
+    \@department, UNIGE Geneva
   \end{flushright}
 }
 
