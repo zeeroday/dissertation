@@ -1,15 +1,67 @@
-\BOOKMARK [0][-]{section*.1}{Contents}{}% 1
-\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 2
-\BOOKMARK [0][-]{chapter.2}{Platform analyses}{}% 3
-\BOOKMARK [1][-]{section.2.1}{Instructable}{chapter.2}% 4
-\BOOKMARK [2][-]{subsection.2.1.1}{Methodology}{section.2.1}% 5
-\BOOKMARK [2][-]{subsection.2.1.2}{User interaction}{section.2.1}% 6
-\BOOKMARK [2][-]{subsection.2.1.3}{Design and process oriented documentation}{section.2.1}% 7
-\BOOKMARK [1][-]{section.2.2}{Build In Progress}{chapter.2}% 8
-\BOOKMARK [2][-]{subsection.2.2.1}{Design approach}{section.2.2}% 9
-\BOOKMARK [2][-]{subsection.2.2.2}{Features}{section.2.2}% 10
-\BOOKMARK [2][-]{subsection.2.2.3}{User interaction}{section.2.2}% 11
-\BOOKMARK [2][-]{subsection.2.2.4}{Summary}{section.2.2}% 12
-\BOOKMARK [1][-]{section.2.3}{Discussion}{chapter.2}% 13
-\BOOKMARK [1][-]{section.2.4}{Conclusion \046 Future Work}{chapter.2}% 14
-\BOOKMARK [0][-]{section*.16}{Bibliography}{}% 15
+\BOOKMARK [0][-]{section*.3}{Contents}{}% 1
+\BOOKMARK [0][-]{chapter.1}{History of platform with 2 case study}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Time line of platforms}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{ Case Study}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.2.1}{Instructable}{section.1.2}% 5
+\BOOKMARK [2][-]{subsection.1.2.2}{Build in Progress}{section.1.2}% 6
+\BOOKMARK [0][-]{chapter.2}{Experience with a Documentation Platform: from Build-in-Progress to SDG-in-Progress}{}% 7
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.2}{Users Project}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.3}{features of BiP}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.4}{From Build in Progress to SDGinProgress}{chapter.2}% 11
+\BOOKMARK [2][-]{subsection.2.4.1}{Design approach}{section.2.4}% 12
+\BOOKMARK [2][-]{subsection.2.4.2}{Features}{section.2.4}% 13
+\BOOKMARK [1][-]{section.2.5}{Use of SDG}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.5.1}{User interaction}{section.2.5}% 15
+\BOOKMARK [2][-]{subsection.2.5.2}{Summary}{section.2.5}% 16
+\BOOKMARK [1][-]{section.2.6}{Discussion}{chapter.2}% 17
+\BOOKMARK [0][-]{chapter.3}{Challenge Based Event}{}% 18
+\BOOKMARK [1][-]{section.3.1}{Timeline of event}{chapter.3}% 19
+\BOOKMARK [1][-]{section.3.2}{Test of CBE : Summer school}{chapter.3}% 20
+\BOOKMARK [0][-]{chapter.4}{Summer School}{}% 21
+\BOOKMARK [1][-]{subsection.4.0.1}{Summer school projects}{chapter.4}% 22
+\BOOKMARK [2][-]{subsection.4.0.2}{Summer school teams}{subsection.4.0.1}% 23
+\BOOKMARK [2][-]{subsection.4.0.3}{Summer school documentation}{subsection.4.0.1}% 24
+\BOOKMARK [1][-]{section.4.1}{Test of CBE : HUG hack}{chapter.4}% 25
+\BOOKMARK [1][-]{section.4.2}{Events documentation}{chapter.4}% 26
+\BOOKMARK [1][-]{section.4.3}{Efforts}{chapter.4}% 27
+\BOOKMARK [0][-]{chapter.5}{CBE documentation : Case study}{}% 28
+\BOOKMARK [1][-]{section.5.1}{Adaptation of BIP}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.2}{Motivation}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.3}{Data set : SDGinProgress}{chapter.5}% 31
+\BOOKMARK [1][-]{section.5.4}{Feedback from project}{chapter.5}% 32
+\BOOKMARK [0][-]{chapter.6}{Discussion}{}% 33
+\BOOKMARK [0][-]{chapter.7}{Conclusion and Recommendation \046 Future Work}{}% 34
+\BOOKMARK [1][-]{section.7.1}{Future work}{chapter.7}% 35
+\BOOKMARK [0][-]{chapter.8}{Overview of Documentation Platforms and a Case Study: Instructables}{}% 36
+\BOOKMARK [1][-]{section.8.1}{Introduction}{chapter.8}% 37
+\BOOKMARK [1][-]{section.8.2}{Instructable}{chapter.8}% 38
+\BOOKMARK [2][-]{subsection.8.2.1}{Methodology}{section.8.2}% 39
+\BOOKMARK [2][-]{subsection.8.2.2}{User interaction}{section.8.2}% 40
+\BOOKMARK [2][-]{subsection.8.2.3}{Design and process oriented documentation}{section.8.2}% 41
+\BOOKMARK [0][-]{chapter.9}{Experience with a Documentation Platform: from Build-in-Progress to SDG-in-Progress}{}% 42
+\BOOKMARK [1][-]{section.9.1}{Introduction}{chapter.9}% 43
+\BOOKMARK [1][-]{section.9.2}{Users Project}{chapter.9}% 44
+\BOOKMARK [1][-]{section.9.3}{features of BiP}{chapter.9}% 45
+\BOOKMARK [1][-]{section.9.4}{From Build in Progress to SDGinProgress}{chapter.9}% 46
+\BOOKMARK [2][-]{subsection.9.4.1}{Design approach}{section.9.4}% 47
+\BOOKMARK [2][-]{subsection.9.4.2}{Features}{section.9.4}% 48
+\BOOKMARK [1][-]{section.9.5}{Use of SDG}{chapter.9}% 49
+\BOOKMARK [2][-]{subsection.9.5.1}{User interaction}{section.9.5}% 50
+\BOOKMARK [2][-]{subsection.9.5.2}{Summary}{section.9.5}% 51
+\BOOKMARK [1][-]{section.9.6}{Discussion}{chapter.9}% 52
+\BOOKMARK [0][-]{chapter.10}{Hackathons}{}% 53
+\BOOKMARK [1][-]{section.10.1}{Introduction}{chapter.10}% 54
+\BOOKMARK [1][-]{section.10.2}{Hackathon}{chapter.10}% 55
+\BOOKMARK [1][-]{section.10.3}{Format}{chapter.10}% 56
+\BOOKMARK [1][-]{section.10.4}{Potential of Hackathons}{chapter.10}% 57
+\BOOKMARK [1][-]{section.10.5}{Classification}{chapter.10}% 58
+\BOOKMARK [1][-]{section.10.6}{Open Geneva}{chapter.10}% 59
+\BOOKMARK [1][-]{section.10.7}{DISCUSSION/CONCLUSION}{chapter.10}% 60
+\BOOKMARK [0][-]{chapter.11}{Summer School}{}% 61
+\BOOKMARK [1][-]{section.11.1}{Summer school projects}{chapter.11}% 62
+\BOOKMARK [1][-]{section.11.2}{Summer school teams}{chapter.11}% 63
+\BOOKMARK [1][-]{section.11.3}{Summer school documentation}{chapter.11}% 64
+\BOOKMARK [1][-]{section.11.4}{Conclusion \046 Future Work}{chapter.11}% 65
+\BOOKMARK [1][-]{section.11.5}{Future work}{chapter.11}% 66
+\BOOKMARK [0][-]{appendix*.38}{Bibliography}{}% 67

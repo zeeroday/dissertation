@@ -1,5 +1,57 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
-The style file: apalike.bst
+This is BibTeX, Version 0.99d (TeX Live 2014/Fink)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: plain.bst
 Database file #1: refs.bib
+Warning--entry type for "openbsd" isn't style-file defined
+--line 30 of file refs.bib
+You're missing a field part---line 33 of file refs.bib
+ :  year = 
+ :         ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "scholar:sf1241364"
-(There was 1 warning)
+Warning--I didn't find a database entry for "SDGdinP1"
+Warning--to sort, need author or key in openbsd
+Warning--empty journal in briscoe2014hackathon
+You've used 19 entries,
+            2118 wiz_defined-function locations,
+            600 strings with 6973 characters,
+and the built_in function-call counts, 5989 in all, are:
+= -- 605
+> -- 242
+< -- 6
++ -- 99
+- -- 78
+* -- 343
+:= -- 959
+add.period$ -- 59
+call.type$ -- 19
+change.case$ -- 93
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 248
+empty$ -- 505
+format.name$ -- 78
+if$ -- 1313
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 12
+newline$ -- 94
+num.names$ -- 36
+pop$ -- 129
+preamble$ -- 1
+purify$ -- 76
+quote$ -- 0
+skip$ -- 205
+stack$ -- 0
+substring$ -- 313
+swap$ -- 69
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 74
+warning$ -- 2
+while$ -- 56
+width$ -- 21
+write$ -- 208
+(There was 1 error message)

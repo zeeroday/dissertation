@@ -1,4 +1,6 @@
 %% See the TeXed file for more explanations
+%% [REC] Format dates and time depending on locale
+\usepackage{datetime}
 
 %% [OPT] Multi-rowed cells in tabulars
 %\usepackage{multirow}
@@ -6,13 +8,13 @@
 %% [REC] Intelligent cross reference package. This allows for nice
 %% combined references that include the reference and a hint to where
 %% to look for it.
+
 \usepackage{varioref}
 
 %% [OPT] Easily changeable quotes with \enquote{Text}
 %\usepackage[german=swiss]{csquotes}
 
-%% [REC] Format dates and time depending on locale
-\usepackage{datetime}
+
 
 %% [OPT] Provides a \cancel{} command to stroke through mathematics.
 %\usepackage{cancel}
@@ -59,3 +61,10 @@
 
 %% [REC] Nicer tables.  Read the excellent documentation.
 \usepackage{booktabs}
+
+%% lmodern removes this restriction by allowing font sizes at arbitrary sizes
+\usepackage{lmodern}
+
+%% The pack­age also pro­vides a com­ment en­vi­ron­ment (that skips ev­ery­thing be­tween \be­gin{com­ment} and \end{com­ment}), and a com­mand \ver­ba­tim­in­put for type­set­ting the con­tents of a file, ver­ba­tim.
+
+\usepackage{verbatim}
