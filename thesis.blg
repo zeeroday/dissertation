@@ -1,57 +1,65 @@
-This is BibTeX, Version 0.99d (TeX Live 2014/Fink)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: historyOfPlatformAnd2CaseStudy.aux
+A level-1 auxiliary file: challengeBasedEvent.aux
+A level-1 auxiliary file: cbeDocumentation.aux
+A level-1 auxiliary file: outcomeDiscussion.aux
+A level-1 auxiliary file: conclusionAndRecommendation.aux
 The style file: plain.bst
 Database file #1: refs.bib
 Warning--entry type for "openbsd" isn't style-file defined
---line 30 of file refs.bib
-You're missing a field part---line 33 of file refs.bib
+--line 106 of file refs.bib
+You're missing a field part---line 109 of file refs.bib
  :  year = 
  :         ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "scholar:sf1241364"
 Warning--I didn't find a database entry for "SDGdinP1"
+Warning--I didn't find a database entry for "wiki:hackathon"
+Warning--to sort, need author or key in wiki:cbl
 Warning--to sort, need author or key in openbsd
 Warning--empty journal in briscoe2014hackathon
-You've used 19 entries,
+Warning--empty publisher in book:makerculture
+You've used 27 entries,
             2118 wiz_defined-function locations,
-            600 strings with 6973 characters,
-and the built_in function-call counts, 5989 in all, are:
-= -- 605
-> -- 242
+            632 strings with 7910 characters,
+and the built_in function-call counts, 7885 in all, are:
+= -- 773
+> -- 333
 < -- 6
-+ -- 99
-- -- 78
-* -- 343
-:= -- 959
-add.period$ -- 59
-call.type$ -- 19
-change.case$ -- 93
++ -- 137
+- -- 108
+* -- 434
+:= -- 1276
+add.period$ -- 83
+call.type$ -- 27
+change.case$ -- 129
 chr.to.int$ -- 0
-cite$ -- 21
-duplicate$ -- 248
-empty$ -- 505
-format.name$ -- 78
-if$ -- 1313
+cite$ -- 31
+duplicate$ -- 319
+empty$ -- 682
+format.name$ -- 108
+if$ -- 1716
 int.to.chr$ -- 0
-int.to.str$ -- 19
-missing$ -- 12
-newline$ -- 94
-num.names$ -- 36
-pop$ -- 129
+int.to.str$ -- 27
+missing$ -- 18
+newline$ -- 133
+num.names$ -- 50
+pop$ -- 204
 preamble$ -- 1
-purify$ -- 76
+purify$ -- 107
 quote$ -- 0
-skip$ -- 205
+skip$ -- 259
 stack$ -- 0
-substring$ -- 313
-swap$ -- 69
+substring$ -- 353
+swap$ -- 77
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 74
-warning$ -- 2
-while$ -- 56
-width$ -- 21
-write$ -- 208
+type$ -- 100
+warning$ -- 4
+while$ -- 70
+width$ -- 29
+write$ -- 285
 (There was 1 error message)

@@ -1,5 +1,9 @@
 \begin{thebibliography}{10}
 
+\bibitem{wiki:cbl}
+Challenge-based learning - wikipedia.
+\newblock \url{https://en.wikipedia.org/wiki/Challenge-based_learning}.
+
 \bibitem{openbsd}
 Openbsd hackathons.
 
@@ -17,6 +21,17 @@ Gerard Briscoe and Catherine Mulligan.
 Sarah~R Davies.
 \newblock {\em Hackerspaces: making the maker movement}.
 \newblock John Wiley \& Sons, 2017.
+
+\bibitem{book:dorst2015frame}
+K.~Dorst.
+\newblock {\em Frame Innovation: Create New Thinking by Design}.
+\newblock Design Thinking, Design Theory. MIT Press, 2015.
+
+\bibitem{book:gershenfeld2005fab}
+N.A. Gershenfeld.
+\newblock {\em Fab: The Coming Revolution on Your Desktop--from Personal
+  Computers to Personal Fabrication}.
+\newblock Basic Books, 2005.
 
 \bibitem{harcourt2016re}
 Deborah Harcourt, Lesley Jones, et~al.
@@ -70,6 +85,12 @@ OpenGeneva.
 \newblock Opengeneva, 2018.
 \newblock [Online; accessed 16-April-2018].
 
+\bibitem{book:makerculture}
+Mike Sharples, Patrick Mcandrew, Martin Weller, Rebecca Ferguson, Elizabeth
+  FitzGerald, Tony Hirst, Yishay Mor, Mark Gaved, and Denise Whitelock.
+\newblock {\em Innovating Pedagogy 2012: Open University Innovation Report 1}.
+\newblock 07 2012.
+
 \bibitem{tseng2016making}
 Tiffany Tseng.
 \newblock {\em Making make-throughs: documentation as stories of design
@@ -101,10 +122,33 @@ Ron Wakkary, Markus~Lorenz Schilling, Matthew~A. Dalton, Sabrina Hauser, Audrey
   Factors in Computing Systems}, CHI '15, pages 609--618, New York, NY, USA,
   2015. ACM.
 
-\bibitem{wiki:hackathon}
+\bibitem{website:openbdshackathon}
 Wikipedia.
-\newblock Hackathon --- {W}ikipedia{,} the free encyclopedia, 2017.
-\newblock [Online; accessed 05-September-2017].
+\newblock Openbsd hackathons, 1991.
+\newblock [Online.
+
+\bibitem{website:gvDesignSprint}
+Wikipedia.
+\newblock Hackathon --- {W}ikipedia{,} the free encyclopedia, 2005.
+\newblock [Online.
+
+\bibitem{wiki:hol}
+Wikipedia.
+\newblock Challenge-based learning --- {W}ikipedia{,} the free encyclopedia,
+  2017.
+\newblock [Online].
+
+\bibitem{website:abl}
+Wikipedia.
+\newblock Challenge-based learning --- {W}ikipedia{,} the free encyclopedia,
+  2017.
+\newblock [Online].
+
+\bibitem{website:openhardware}
+Wikipedia.
+\newblock Challenge-based learning --- {W}ikipedia{,} the free encyclopedia,
+  2017.
+\newblock [Online].
 
 \bibitem{wiki:instructable}
 Wikipedia.

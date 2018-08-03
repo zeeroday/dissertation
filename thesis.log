@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.20)  3 AUG 2018 16:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.20)  3 AUG 2018 20:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1270,9 +1270,6 @@ LaTeX Warning: Unused global option(s):
 ) (./cbeDocumentation.aux) (./outcomeDiscussion.aux)
 (./conclusionAndRecommendation.aux)
 
-LaTeX Warning: Label `sec:img-instructables' multiply defined.
-
-
 LaTeX Warning: Label `img-writemake' multiply defined.
 
 
@@ -1624,7 +1621,7 @@ Package marginnote Info: \pdfoutput not 0 or unimportant and
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<UNIGElogo.pdf, id=276, 316.46411pt x 114.18642pt>
+<UNIGElogo.pdf, id=280, 316.46411pt x 114.18642pt>
 File: UNIGElogo.pdf Graphic file (type pdf)
 <use UNIGElogo.pdf>
 Package pdftex.def Info: UNIGElogo.pdf  used on input line 106.
@@ -1688,11 +1685,10 @@ logo.pdf>]
 [2
 
 ] (./abstract.tex
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 8.
-
-
-LaTeX Warning: Marginpar on page i moved by 345.19334pt.
+Overfull \hbox (6.85565pt too wide) in paragraph at lines 15--16
+\OT1/lmr/m/n/10 oped to sup-port of team-based projects in set-tings rang-ing f
+rom pub-lic hackathons
+ []
 
 )pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has
  been already used, duplicate ignored
@@ -1719,38 +1715,27 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 11.40997pt on input line 3.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 3.
-
-Overfull \hbox (15.25291pt too wide) in paragraph at lines 12--12
+ [3]
+Overfull \hbox (15.25291pt too wide) in paragraph at lines 46--46
  [][] [][][]\OT1/lmr/bx/n/10.95 Experience with a Doc-u-men-ta-tion Plat-form: 
 from Build-in-Progress 
  []
 
-[3]
-Overfull \hbox (15.25291pt too wide) in paragraph at lines 48--48
- [][] [][][]\OT1/lmr/bx/n/10.95 Experience with a Doc-u-men-ta-tion Plat-form: 
-from Build-in-Progress 
- []
-
-) [4] (./thesis.tdo [1
-
-
-]
-Overfull \hbox (8.37321pt too wide) in paragraph at lines 29--29
+) [4] (./thesis.tdo
+Overfull \hbox (8.37321pt too wide) in paragraph at lines 24--24
  \OT1/lmr/m/n/10.95 with Challenge-based learn-ing events: from hackathons to s
 tu-dent projects." 
  []
 
-) (./introduction.tex) [2]
+) (./introduction.tex) [1
+
+
+] [2]
 \openout2 = `historyOfPlatformAnd2CaseStudy.aux'.
 
  (./historyOfPlatformAnd2CaseStudy.tex
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 10.
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 10.
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 9.
 
 
 LaTeX Warning: Marginpar on page 3 moved by 36.31552pt.
@@ -1758,49 +1743,44 @@ LaTeX Warning: Marginpar on page 3 moved by 36.31552pt.
 
 LaTeX Warning: Marginpar on page 3 moved by 86.23105pt.
 
-
-LaTeX Warning: Marginpar on page 3 moved by 108.29886pt.
-
-
-LaTeX Warning: Marginpar on page 3 moved by 142.48523pt.
-
-
-LaTeX Warning: Marginpar on page 3 moved by 176.6716pt.
-
-
-LaTeX Warning: Marginpar on page 3 moved by 115.1139pt.
-
-<./images/img-instructables.png, id=474, 1027.84pt x 831.105pt>
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 24.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 24.
+<./images/img-instructables.png, id=480, 1027.84pt x 831.105pt>
 File: ./images/img-instructables.png Graphic file (type png)
 <use ./images/img-instructables.png>
-Package pdftex.def Info: ./images/img-instructables.png  used on input line 52.
+Package pdftex.def Info: ./images/img-instructables.png  used on input line 42.
 
 (pdftex.def)             Requested size: 370.02211pt x 299.19757pt.
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 53.
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 43.
+
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 53.
+(Font)              <9> on input line 43.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 53.
+(Font)              <7> on input line 43.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 53.
+(Font)              <5> on input line 43.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 53.
+(Font)              scaled to size 9.37807pt on input line 43.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 53.
+(Font)              scaled to size 7.29405pt on input line 43.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 53.
+(Font)              scaled to size 5.21004pt on input line 43.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 53.
+(Font)              scaled to size 9.37807pt on input line 43.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 53.
+(Font)              scaled to size 7.29405pt on input line 43.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 53.
+(Font)              scaled to size 5.21004pt on input line 43.
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
 []\OT1/lmss/bx/n/9 Figure 11: []\OT1/lmss/m/n/9 Sample In-structa-bles project,
  [][]$\OT1/lmtt/m/n/9 http : / / www . instructables . com / id /
  []
@@ -1809,15 +1789,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--53
 
 
 ]
-LaTeX Font Info:    Try loading font information for OT1+pplj on input line 63.
+LaTeX Font Info:    Try loading font information for OT1+pplj on input line 53.
 
  (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1pplj.fd
 File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
 )
-<./images/img-writemake.png, id=491, 1139.25626pt x 266.9975pt>
+<./images/img-writemake.png, id=495, 1139.25626pt x 266.9975pt>
 File: ./images/img-writemake.png Graphic file (type png)
 <use ./images/img-writemake.png>
-Package pdftex.def Info: ./images/img-writemake.png  used on input line 69.
+Package pdftex.def Info: ./images/img-writemake.png  used on input line 59.
 (pdftex.def)             Requested size: 387.34201pt x 90.77794pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1827,19 +1807,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.73 
+l.63 
       <./images/img-instructables.png>]
-<./images/img-makereplicatewrite.png, id=511, 1130.2225pt x 205.76875pt>
+<./images/img-makereplicatewrite.png, id=513, 1130.2225pt x 205.76875pt>
 File: ./images/img-makereplicatewrite.png Graphic file (type png)
 <use ./images/img-makereplicatewrite.png>
 Package pdftex.def Info: ./images/img-makereplicatewrite.png  used on input lin
-e 76.
+e 66.
 (pdftex.def)             Requested size: 384.27057pt x 69.96043pt.
-<./images/img-makewritesimultanously.png, id=515, 950.55125pt x 486.81876pt>
+<./images/img-makewritesimultanously.png, id=517, 950.55125pt x 486.81876pt>
 File: ./images/img-makewritesimultanously.png Graphic file (type png)
 <use ./images/img-makewritesimultanously.png>
 Package pdftex.def Info: ./images/img-makewritesimultanously.png  used on input
- line 83.
+ line 73.
 (pdftex.def)             Requested size: 323.18315pt x 165.51619pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1849,173 +1829,148 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.95 
+l.85 
      pdfTeX warning (ext4): destination with the same identifier (name{figure.1
 .3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.95 
+l.85 
      pdfTeX warning (ext4): destination with the same identifier (name{figure.1
 .4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.95 
+l.85 
       <./images/img-writemake.png> <./images/img-makereplicatewrite.png> <./ima
 ges/img-makewritesimultanously.png>]
 
-LaTeX Warning: Citation `scholar:sf1241364' on page 6 undefined on input line 9
+LaTeX Warning: Citation `scholar:sf1241364' on page 6 undefined on input line 8
 6.
 
+
+LaTeX Warning: Reference `img-buildinprogress' on page 6 undefined on input lin
+e 108.
+
 [6]
-
-LaTeX Warning: Reference `img-buildinprogress' on page 7 undefined on input lin
-e 117.
-
-
-Underfull \vbox (badness 1968) has occurred while \output is active []
-
- [7
-
-]
-<./images/img-sdginprogress.png, id=551, 1285.80376pt x 899.36pt>
+<./images/img-sdginprogress.png, id=546, 1285.80376pt x 899.36pt>
 File: ./images/img-sdginprogress.png Graphic file (type png)
 <use ./images/img-sdginprogress.png>
-Package pdftex.def Info: ./images/img-sdginprogress.png  used on input line 125
+Package pdftex.def Info: ./images/img-sdginprogress.png  used on input line 116
 .
 (pdftex.def)             Requested size: 426.78865pt x 284.52126pt.
 
-Overfull \hbox (28.45006pt too wide) in paragraph at lines 125--126
+Overfull \hbox (28.45006pt too wide) in paragraph at lines 116--117
  [][] 
  []
 
-<./images/img-sdginprogressproject.png, id=554, 1228.59pt x 362.35374pt>
+<./images/img-sdginprogressproject.png, id=549, 1228.59pt x 362.35374pt>
 File: ./images/img-sdginprogressproject.png Graphic file (type png)
 <use ./images/img-sdginprogressproject.png>
 Package pdftex.def Info: ./images/img-sdginprogressproject.png  used on input l
-ine 139.
+ine 130.
 (pdftex.def)             Requested size: 379.50017pt x 111.92487pt.
 
 Underfull \vbox (badness 3668) has occurred while \output is active []
 
-
-
-Class memoir Warning: The material used in the headers is too large
-(27.2pt) for the given head height (13.6pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 144.
-
-
-Overfull \vbox (13.59999pt too high) has occurred while \output is active []
-
-
-[8pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}
-) has been already used, duplicate ignored
+ [7pdfTeX warning (ext4): destination with the same identifier (name{figure.1.5
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.144 
+l.135 
        <./images/img-sdginprogress.png>]
-<./images/img-refugeeintegration.png, id=565, 1579.9025pt x 450.68375pt>
+<./images/img-refugeeintegration.png, id=561, 1579.9025pt x 450.68375pt>
 File: ./images/img-refugeeintegration.png Graphic file (type png)
 <use ./images/img-refugeeintegration.png>
 Package pdftex.def Info: ./images/img-refugeeintegration.png  used on input lin
-e 148.
+e 139.
 (pdftex.def)             Requested size: 394.97466pt x 112.67065pt.
-<./images/img-refugeeintegrationblogmode.png, id=568, 1024.82875pt x 826.08624p
+<./images/img-refugeeintegrationblogmode.png, id=564, 1024.82875pt x 826.08624p
 t>
 File: ./images/img-refugeeintegrationblogmode.png Graphic file (type png)
 <use ./images/img-refugeeintegrationblogmode.png>
 Package pdftex.def Info: ./images/img-refugeeintegrationblogmode.png  used on i
-nput line 157.
+nput line 148.
 (pdftex.def)             Requested size: 307.45099pt x 247.82777pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.1.6
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.161 
+l.152 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-2.3}) has been already used, duplicate ignored
+1.7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.161 
+l.152 
        <./images/img-sdginprogressproject.png> <./images/img-refugeeintegration
 .png>]
-<./images/img-stepdetails1.png, id=581, 525.965pt x 664.4825pt>
+<./images/img-stepdetails1.png, id=577, 525.965pt x 664.4825pt>
 File: ./images/img-stepdetails1.png Graphic file (type png)
 <use ./images/img-stepdetails1.png>
-Package pdftex.def Info: ./images/img-stepdetails1.png  used on input line 172.
+Package pdftex.def Info: ./images/img-stepdetails1.png  used on input line 163.
 
 (pdftex.def)             Requested size: 157.79071pt x 199.34628pt.
-<./images/img-commentquestion1.png, id=582, 712.6625pt x 583.17876pt>
+<./images/img-commentquestion1.png, id=578, 712.6625pt x 583.17876pt>
 File: ./images/img-commentquestion1.png Graphic file (type png)
 <use ./images/img-commentquestion1.png>
 Package pdftex.def Info: ./images/img-commentquestion1.png  used on input line 
-180.
+171.
 (pdftex.def)             Requested size: 285.05995pt x 233.26736pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Overfull \vbox (13.59999pt too high) has occurred while \output is active []
-
-
-[10pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.1.8
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.184 
+l.175 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-2.5}) has been already used, duplicate ignored
+1.9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.184 
+l.175 
        <./images/img-refugeeintegrationblogmode.png> <./images/img-stepdetails1
 .png>]
-<./images/img-mobileapp.png, id=594, 696.6025pt x 282.05376pt>
+<./images/img-mobileapp.png, id=590, 696.6025pt x 282.05376pt>
 File: ./images/img-mobileapp.png Graphic file (type png)
 <use ./images/img-mobileapp.png>
-Package pdftex.def Info: ./images/img-mobileapp.png  used on input line 190.
+Package pdftex.def Info: ./images/img-mobileapp.png  used on input line 181.
 (pdftex.def)             Requested size: 348.3004pt x 141.02652pt.
- [11pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
-6}) has been already used, duplicate ignored
+ [10pdfTeX warning (ext4): destination with the same identifier (name{figure.1.
+10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.202 
+l.193 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-2.7}) has been already used, duplicate ignored
+1.11}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.202 
+l.193 
        <./images/img-commentquestion1.png> <./images/img-mobileapp.png>]
-<./images/img-cmtsdgip.png, id=606, 494.84875pt x 883.3pt>
+<./images/img-cmtsdgip.png, id=602, 494.84875pt x 883.3pt>
 File: ./images/img-cmtsdgip.png Graphic file (type png)
 <use ./images/img-cmtsdgip.png>
-Package pdftex.def Info: ./images/img-cmtsdgip.png  used on input line 210.
+Package pdftex.def Info: ./images/img-cmtsdgip.png  used on input line 201.
 (pdftex.def)             Requested size: 227.70241pt x 406.44424pt.
 
 
-LaTeX Warning: Citation `SDGdinP1' on page 12 undefined on input line 211.
+LaTeX Warning: Citation `SDGdinP1' on page 11 undefined on input line 202.
 
 
-LaTeX Warning: Citation `SDGdinP1' on page 12 undefined on input line 211.
+LaTeX Warning: Citation `SDGdinP1' on page 11 undefined on input line 202.
 
-
-Overfull \vbox (13.59999pt too high) has occurred while \output is active []
-
-
-[12]) [13pdfTeX warning (ext4): destination with the same identifier (name{figu
-re.2.8}) has been already used, duplicate ignored
+[11]) [12pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.1.12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -2024,57 +1979,57 @@ l.119 \include{historyOfPlatformAnd2CaseStudy}
 \openout2 = `challengeBasedEvent.aux'.
 
 
-(./challengeBasedEvent.tex [14
+(./challengeBasedEvent.tex [13
 
 
 
-] [15] [16
+] [14
 
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 10.
 
-) [17] [18]
+) [15] [16]
 \openout2 = `cbeDocumentation.aux'.
 
- (./cbeDocumentation.tex) [19
+ (./cbeDocumentation.tex) [17
 
 
 
 ]
 \openout2 = `outcomeDiscussion.aux'.
 
- (./outcomeDiscussion.tex [20
+ (./outcomeDiscussion.tex [18
 
 
 
 ])
-[21]
+[19]
 \openout2 = `conclusionAndRecommendation.aux'.
 
- (./conclusionAndRecommendation.tex [22
+ (./conclusionAndRecommendation.tex [20
 
 
 
-] [23]) [24] (./platformanalyses.tex
+] [21]) [22] (./platformanalyses.tex
 
-LaTeX Warning: Marginpar on page 25 moved by 36.31552pt.
-
-
-LaTeX Warning: Marginpar on page 25 moved by 86.23105pt.
+LaTeX Warning: Marginpar on page 23 moved by 36.31552pt.
 
 
-LaTeX Warning: Marginpar on page 25 moved by 108.29886pt.
+LaTeX Warning: Marginpar on page 23 moved by 86.23105pt.
 
 
-LaTeX Warning: Marginpar on page 25 moved by 142.48523pt.
+LaTeX Warning: Marginpar on page 23 moved by 108.29886pt.
 
 
-LaTeX Warning: Marginpar on page 25 moved by 176.6716pt.
+LaTeX Warning: Marginpar on page 23 moved by 142.48523pt.
 
 
-LaTeX Warning: Marginpar on page 25 moved by 56.16939pt.
+LaTeX Warning: Marginpar on page 23 moved by 176.6716pt.
+
+
+LaTeX Warning: Marginpar on page 23 moved by 56.16939pt.
 
 File: ./images/img-instructables.png Graphic file (type png)
 <use ./images/img-instructables.png>
@@ -2083,11 +2038,11 @@ Package pdftex.def Info: ./images/img-instructables.png  used on input line 38.
 (pdftex.def)             Requested size: 370.02211pt x 299.19757pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 39--39
-[]\OT1/lmss/bx/n/9 Figure 81: []\OT1/lmss/m/n/9 Sample In-structa-bles project,
+[]\OT1/lmss/bx/n/9 Figure 71: []\OT1/lmss/m/n/9 Sample In-structa-bles project,
  [][]$\OT1/lmtt/m/n/9 http : / / www . instructables . com / id /
  []
 
-[25
+[23
 
 
 ]
@@ -2100,7 +2055,7 @@ File: ./images/img-makereplicatewrite.png Graphic file (type png)
 Package pdftex.def Info: ./images/img-makereplicatewrite.png  used on input lin
 e 62.
 (pdftex.def)             Requested size: 384.27057pt x 69.96043pt.
- [26pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
+ [24pdfTeX warning (ext4): destination with the same identifier (name{figure.7.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2112,19 +2067,19 @@ File: ./images/img-makewritesimultanously.png Graphic file (type png)
 Package pdftex.def Info: ./images/img-makewritesimultanously.png  used on input
  line 69.
 (pdftex.def)             Requested size: 323.18315pt x 165.51619pt.
- [27pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
+ [25pdfTeX warning (ext4): destination with the same identifier (name{figure.7.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.81 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.8
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.7
 .3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.81 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.8
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.7
 .4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2132,18 +2087,18 @@ l.81
 l.81 
      ]
 
-LaTeX Warning: Citation `scholar:sf1241364' on page 28 undefined on input line 
+LaTeX Warning: Citation `scholar:sf1241364' on page 26 undefined on input line 
 82.
 
-) (./frombiptosdginprogress.tex [28]
+) (./frombiptosdginprogress.tex [26]
 
-LaTeX Warning: Reference `img-buildinprogress' on page 29 undefined on input li
+LaTeX Warning: Reference `img-buildinprogress' on page 27 undefined on input li
 ne 19.
 
 
 Underfull \vbox (badness 1968) has occurred while \output is active []
 
- [29
+ [27
 
 ]
 File: ./images/img-sdginprogress.png Graphic file (type png)
@@ -2165,10 +2120,17 @@ ine 41.
 Underfull \vbox (badness 3668) has occurred while \output is active []
 
 
+
+Class memoir Warning: The material used in the headers is too large
+(27.2pt) for the given head height (13.6pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 46.
+
+
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[30pdfTeX warning (ext4): destination with the same identifier (name{figure.9.1
+[28pdfTeX warning (ext4): destination with the same identifier (name{figure.8.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2188,13 +2150,13 @@ nput line 59.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31pdfTeX warning (ext4): destination with the same identifier (name{figure.9.
+ [29pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.63 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.9
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.8
 .3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2217,13 +2179,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[32pdfTeX warning (ext4): destination with the same identifier (name{figure.9.4
+[30pdfTeX warning (ext4): destination with the same identifier (name{figure.8.4
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.86 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.9
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.8
 .5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -2234,14 +2196,14 @@ File: ./images/img-mobileapp.png Graphic file (type png)
 <use ./images/img-mobileapp.png>
 Package pdftex.def Info: ./images/img-mobileapp.png  used on input line 92.
 (pdftex.def)             Requested size: 348.3004pt x 141.02652pt.
- [33pdfTeX warning (ext4): destination with the same identifier (name{figure.9.
+ [31pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.104 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-9.7}) has been already used, duplicate ignored
+8.7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -2253,49 +2215,54 @@ Package pdftex.def Info: ./images/img-cmtsdgip.png  used on input line 112.
 (pdftex.def)             Requested size: 227.70241pt x 406.44424pt.
 
 
-LaTeX Warning: Citation `SDGdinP1' on page 34 undefined on input line 113.
+LaTeX Warning: Citation `SDGdinP1' on page 32 undefined on input line 113.
 
 
-LaTeX Warning: Citation `SDGdinP1' on page 34 undefined on input line 113.
+LaTeX Warning: Citation `SDGdinP1' on page 32 undefined on input line 113.
 
 ) (./hackathons.tex
 Overfull \vbox (13.59999pt too high) has occurred while \output is active []
 
 
-[34] [35pdfTeX warning (ext4): destination with the same identifier (name{figur
-e.9.8}) has been already used, duplicate ignored
+[32] [33pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.8.8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.1 \chapter
             {Hackathons}\todo[size=\small]{Suggest combining the two last ch...
-] [36
+] [34
 
 ]
 \c@currRulectr=\count338
 \c@endRulectr=\count339
 
+
+LaTeX Warning: Citation `wiki:hackathon' on page 35 undefined on input line 41.
+
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37]
-[38]
-<./images/img-hackstat.png, id=789, 778.91pt x 486.81876pt>
+ [35]
+[36]
+<./images/img-hackstat.png, id=780, 778.91pt x 486.81876pt>
 File: ./images/img-hackstat.png Graphic file (type png)
 <use ./images/img-hackstat.png>
 Package pdftex.def Info: ./images/img-hackstat.png  used on input line 105.
 (pdftex.def)             Requested size: 311.55849pt x 194.72404pt.
- [39]) (./summerschool.tex [40pdfTeX warning (ext4): destination with the same 
-identifier (name{figure.10.1}) has been already used, duplicate ignored
+ [37]) (./summerschool.tex [38pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.9.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.1 \chapter
             {Summer School} <./images/img-hackstat.png>]) (./conclusion.tex
-[41
+[39
 
-]) [42] (./thesis.bbl
+]) [40] (./thesis.bbl
 bibitemlist
-[43
+[41
 
 
 ])
@@ -2308,7 +2275,7 @@ either increase the head height or redesign the header
 \tf@thm=\write6
 \openout6 = `thesis.thm'.
 
-[44]
+[42]
 \tf@toc=\write7
 \openout7 = `thesis.toc'.
 
@@ -2323,7 +2290,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: C6B3CD5994CB6E59D750A0592A705AB3;4470.
+(rerunfilecheck)             Checksum: 772447A0DB24323F32FF785EA766E812;4506.
 
 
 LaTeX Warning: There were undefined references.
@@ -2333,13 +2300,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 26378 strings out of 492649
- 458365 string characters out of 6129622
- 677960 words of memory out of 5000000
- 29433 multiletter control sequences out of 15000+600000
+ 26347 strings out of 492649
+ 457711 string characters out of 6129622
+ 660012 words of memory out of 5000000
+ 29403 multiletter control sequences out of 15000+600000
  137615 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,12n,122p,1923b,942s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,12n,122p,1923b,690s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/loca
 l/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2018
 /texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2018/texmf-dist/fon
@@ -2356,10 +2323,10 @@ s9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><
 /usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local
 /texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2
 018/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on thesis.pdf (50 pages, 6415071 bytes).
+Output written on thesis.pdf (48 pages, 6415615 bytes).
 PDF statistics:
- 920 PDF objects out of 1000 (max. 8388607)
- 805 compressed objects within 9 object streams
- 199 named destinations out of 1000 (max. 500000)
- 12907 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 911 PDF objects out of 1000 (max. 8388607)
+ 799 compressed objects within 8 object streams
+ 198 named destinations out of 1000 (max. 500000)
+ 12915 words of extra memory for PDF output out of 14400 (max. 10000000)
 
